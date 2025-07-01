@@ -1,3 +1,4 @@
+#backup standby file
 import os
 import fitz  # PyMuPDF
 import docx
@@ -18,7 +19,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from fpdf import FPDF
 
 # === CONFIGURATION ===
-TOKEN = "8125074295:AAHRIlUkN3UlZVao_BYKedAxantp6ts_MUQ"
+TOKEN = ""
 DOC_DIR = "uploaded_docs"
 VEC_STORE = "vector_store.pkl"
 FAISS_INDEX = "faiss.index"
