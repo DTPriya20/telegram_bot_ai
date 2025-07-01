@@ -17,7 +17,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from fpdf import FPDF
 
 # === CONFIGURATION ===
-TOKEN = "8125074295:AAHRIlUkN3UlZVao_BYKedAxantp6ts_MUQ"
+TOKEN = "" #for security reasons cannot share the token, you can use your bot token if you want to clone this repo
 DOC_DIR = "uploaded_docs"
 VEC_STORE = "vector_store.pkl"
 FAISS_INDEX = "faiss.index"
