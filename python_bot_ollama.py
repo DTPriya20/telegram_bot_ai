@@ -23,7 +23,7 @@ from fpdf import FPDF
 import ollama            # NEW  ← pip install ollama
 
 # === CONFIGURATION ===
-TOKEN       = "8125074295:AAHRIlUkN3UlZVao_BYKedAxantp6ts_MUQ"
+TOKEN       = "" #removed for security reasons
 DOC_DIR     = "uploaded_docs"
 VEC_STORE   = "vector_store.pkl"
 FAISS_INDEX = "faiss.index"
