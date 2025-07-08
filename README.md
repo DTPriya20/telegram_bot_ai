@@ -18,5 +18,5 @@ An AI-powered Telegram bot that lets users upload `.pdf`, `.docx`, or `.md` file
 ## 🚀 Getting Started
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/docbot-telegram-qa.git
-cd docbot-telegram-qa
+git clone https://github.com/yourusername/telegram_bot_ai.git
+cd telegram_bot_ai
