@@ -14,6 +14,7 @@ An AI-powered Telegram bot that lets users upload `.pdf`, `.docx`, or `.md` file
 - SentenceTransformers
 - PyMuPDF, python-docx
 - Telegram Bot API
+- Ollama (local LLM)
 
 ## 🚀 Getting Started
 1. Clone the repo:
